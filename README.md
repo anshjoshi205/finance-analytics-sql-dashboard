@@ -42,15 +42,14 @@ The objective is to transform raw data into **actionable business insights**.
   ├── payouts.csv
   └── failure_logs.csv
 
-/images
-  └── dashboard_preview.png
+/dashboards
+  └── 1.png
+  └── 2.png
+  └── dashboards.pbix
+/data generation
+  └── data_generation.ipynb
+  
 ```
-
----
-
-## 📊 Dashboard Preview
-
-![Dashboard](images/dashboard_preview.png)
 
 ---
 
